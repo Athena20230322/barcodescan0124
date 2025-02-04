@@ -92,6 +92,7 @@ class _BarcodeScannerPageState extends State<BarcodeScannerPage> {
         SnackBar(content: Text('保存失敗: $e')),
       );
     }
+
   }
   @override
   Widget build(BuildContext context) {
