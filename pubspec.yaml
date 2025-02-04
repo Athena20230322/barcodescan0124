@@ -30,9 +30,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  barcode_scan2: ^4.0.0  # 確保使用合適的版本
-  path_provider: ^2.0.11   # 確保使用合適的版本
-  permission_handler: ^10.2.0
+  encrypt: ^5.0.0
+  pointycastle: ^3.4.0
+  barcode_scan2: ^4.4.0
+  http: ^1.0.0
+  permission_handler: ^11.0.0
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
