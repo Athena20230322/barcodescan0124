@@ -93,7 +93,6 @@ class _BarcodeScannerPageState extends State<BarcodeScannerPage> {
       );
     }
   }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
